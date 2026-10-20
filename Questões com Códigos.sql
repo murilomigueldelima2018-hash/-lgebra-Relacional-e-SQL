@@ -8,8 +8,8 @@
 
 **Integrantes:**
 - Murilo Miguel de Lima
-- [Nome completo do integrante 2]
-- [Nome completo do integrante 3]
+- [Vinicius Marques Batista]
+- [José Isaac Gouveia Alves]
 
 ## Questão 01
 
